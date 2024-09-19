@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tran ba trieu demo1
+=======
+Tran ba trieu Main_demo1
+>>>>>>> main
